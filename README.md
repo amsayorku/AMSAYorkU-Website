@@ -1,4 +1,4 @@
-# [AMSAYorkU](www.amsayorku.ca)
+# [AMSAYorkU](amsayorku.ca)
 
 AMSA is the Ahmadiyya Muslim Students Association, this website is for the AMSA branch at York University.
 
